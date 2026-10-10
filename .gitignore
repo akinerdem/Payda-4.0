@@ -1,0 +1,66 @@
+# Yayin klasoru icin ikinci emniyet. Asil filtre YAYIN-LISTESI.txt'dir.
+
+# Bagimliliklar ve derleme ciktisi
+node_modules/
+build/
+dist/
+*.map
+
+# Sirlar
+.env
+.env.*
+!.env.example
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+id_rsa*
+*.jks
+*.keystore
+
+# Arsivler (icindeki sir taramada gorunmez)
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+# Yedekler
+*.bak
+*.bak-*
+*.backup
+*_backup.*
+*_backup
+*.orig
+*.old
+*_recovered.*
+*_eski.*
+*.save
+
+# Veri dokumleri ve veritabani dosyalari
+parsed_*.json
+raw_*.txt
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Ajan calisma artiklari
+_karalama/
+/temp_extract/
+/tmp_*/
+
+# Isletim sistemi, editor, log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+*.log
+logs/
