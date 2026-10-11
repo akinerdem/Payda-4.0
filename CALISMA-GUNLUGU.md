@@ -5,6 +5,17 @@
 
 ---
 
+## 2026-10-11 22:56:58 · Claude Code (Opus 5.5) · Payda 4.2 (kod 6) dagitima hazirlandi
+
+**Ne yapıldı:** Payda.apk 4.2 surumuyle degistirildi. Yenilikler: gorsele uzun basinca kaydet ve paylas menusu; sitedeki Indir dugmeleri icin dosya kaydetme koprusu (gorsel galeriye, metin Indirilenler klasorune).
+**Nerede:** Payda.apk
+**Durum:** yarım
+**Sonraki adım:** Commit ve push; indirme adresinden inen dosya derlenenle karsilastirilir; ardindan sitedeki surum dosyasi kod 6 / 4.2 yapilir.
+**Not:** Derlendi, cihazda denenmedi; kullanici dagitim talimati verdi. Imza onceki surumlerle ayni.
+**Kayıt anındaki HEAD:** git reposu değil
+
+---
+
 ## 2026-10-10 21:16:05 · Claude Code (Opus 5.5) · Duzeltme: gunluk de depoyla yayinlaniyor
 
 **Ne yapıldı:** Push oncesi denetim depo kokunde gunluk istedigi icin CALISMA-GUNLUGU.md yayin listesine eklendi. Onceki kayittaki gunluk yayinlanmaz notu gecersiz.
